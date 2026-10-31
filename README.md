@@ -8,6 +8,8 @@ BS in Applied AI & Data Science @ IIT Jodhpur (class of 2030) · based in Puri, 
 
 - **StudentVault** — student notes sharing API. JWT-auth, ownership checks, full-text search, community upvotes. [repo](https://github.com/paninalinikanta352-collab/StudentVault)
 - **LinkBolt API** — URL shortener with per-link ownership + click analytics. [repo](https://github.com/paninalinikanta352-collab/LinkBolt-API)
+- **CivicFix** — civic issue reporting platform: photo + location reports, explainable 0–100 risk ranking, admin→worker assignment, live status timeline. JWT roles (user/admin/worker), Gemini category assist, CLIP fake-photo detection. Deployed on Render. [repo](https://github.com/paninalinikanta352-collab/CivicFix) · [**live**](https://civicfix-web.onrender.com)
+- next: the thing that turns three repos into a portfolio, not a list
 
 ## Stack
 
